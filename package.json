@@ -1,0 +1,11 @@
+{
+  "name": "digital-ocean-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "save": "git add . && git commit -m '🔹' && git push -u origin master"
+  },
+  "author": "",
+  "license": "ISC"
+}
